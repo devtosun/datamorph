@@ -1,4 +1,3 @@
-import 'dart:math';
 
 import 'package:animate_do/animate_do.dart';
 import 'package:datamorph/modules/login/login_controller.dart';
